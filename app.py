@@ -1,1 +1,1 @@
-print("Hello! This is testBuild project.")
+print("Hello! This is testBuild projct.")
